@@ -9,6 +9,7 @@ train/
 sample_submission.csv
 data/
 홈에너지_시간별_계측.csv
+*.pth
 
 # --- [2] 파이썬 자동 생성 파일 (필요 없는 쓰레기) ---
 __pycache__/
